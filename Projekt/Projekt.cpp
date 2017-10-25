@@ -46,7 +46,7 @@ public:
 		0, 480, c2,
 		0,0, c3,
 		0.0);
-
+		///TESTTESTTES
 		bild.draw_rot(x, y, 0.0,winkel);
 		
 	}
